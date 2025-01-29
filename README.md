@@ -89,7 +89,8 @@ I welcome contributions from the community! To contribute, please follow these s
 ## Contact 
 Samia Jahan-
 [LinkedIn](https://www.linkedin.com/in/samia-jahan-binte-nour/)-
-[github](https://github.com/Samia1925)
+[github](https://github.com/Samia1925)-
+[mail](jahan.samiaa@gmail.com)
 
 ## **References:**
 1. [JMeter User Manual](https://jmeter.apache.org/usermanual/index.html)
