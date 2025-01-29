@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project focuses on conducting performance testing on the [NopCommerce](https://www.nopcommerce.com/) platform to evaluate its behavior under various load conditions. The primary objective is to identify potential bottlenecks and ensure the application's scalability and reliability.
+This project focuses on conducting performance testing for the [NopCommerce](https://www.nopcommerce.com/) platform to evaluate its behavior under various load conditions. The primary objective is to identify potential bottlenecks and ensure the application's scalability and reliability.
 
 ## Objectives
 
@@ -65,12 +65,12 @@ The performance test plan includes:
 
 
 ## Output
-# View Results Tree
+### View Results Tree
 The View Results Tree listener shows the test results in a hierarchical format. It displays detailed information for each individual request made during the test, including response data, status (pass/fail), response time, and other associated data. This is useful for debugging and analyzing specific requests, especially if you want to see which requests failed or took longer than expected.
 
 ![Screenshot 2025-01-29 135239](https://github.com/user-attachments/assets/b32a6d41-35b3-46f7-ab2a-86cdde0df15c)
 
-# Summary Report
+### Summary Report
 The Summary Report listener provides a high-level overview of the test results, typically in a tabular format. It summarizes key performance metrics such as average response time, throughput, error rate, and the number of requests processed. This is ideal for quickly assessing overall system performance and for identifying any major issues in a single glance.
 
 ![image](https://github.com/user-attachments/assets/a85ffde4-3709-4568-82a7-a61d8207bc4f)
